@@ -1,0 +1,22 @@
+
+ * Got github set up
+
+XCODE
+
+ * update xcode to 4.3.2
+
+RUBY/RAILS
+
+ * Use ruby 1.8.7 as installed on machine
+ * install rubygems if needed from https://rubygems.org/pages/download
+ * "sudo gem update --system"
+ * "sudo gem install rails"  - should get 3.2.3
+ * sudo gem install rdoc-data
+ * sudo rdoc-data --install
+ * sudo gem install bundler
+
+
+HEROKU
+
+ * http://sammich-installfest.heroku.com/installfest/create_an_ssh_key
+ * http://sammich-installfest.heroku.com/installfest/create_a_heroku_account
