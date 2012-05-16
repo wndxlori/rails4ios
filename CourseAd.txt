@@ -1,0 +1,51 @@
+
+Rails for iOS Developers
+
+Do you have a mobile application on iOS that requires more than basic cloud support?  
+
+Provide your own custom application server API using Ruby on Rails, the most productive and maintainable web server platform available.  Ruby on Rails is fully open source and used for thousands of large web applications and services worldwide today.  
+
+This course is for you if you are a mobile application developer and any of the following problems interest you:
+
+ * Providing interaction between mobile users
+ * Providing a web interface separate from the mobile application
+ * Improving your SEO (Search engine optimization) by providing an integrated marketing web site or blog
+ * Aggregating and analyzing activity on your mobile application
+ * Providing an API to external applications to allow integration to your mobile solution
+ * Have tried using proprietary back-end technologies such as .NET or Java and find them too heavyweight.
+ * Existing platforms for mobile games or other apps are too limiting or expensive
+ * Want to be able to build and deploy apps after a single weekend rather than try to learn through books, screencasts, or on-line forums.
+ * Want to be able to learn from experienced rails developers who have been active on the platform since it was pre 1.0 (we started before 1.0, right Lori?)
+ 
+This two day course will take you through building an iOS application including deployment to Heroku, a cloud based Ruby on Rails provider.
+
+
+
+----
+
+Ruby (A multi-purpose scripting language developed in the 1990s)
+
+We will briefly cover the most important aspects of the Ruby language.
+
+ * Syntax and structure (comments, command separation, "require")
+ * Ruby's OO paradigm (classes, duck typing, mix-ins, etc.)
+ * Ruby's dynamic features (metaprogramming, introspection)
+ * Important items not commonly found in other languages (symbols, closures)
+ * Ruby's culture (use of idiom, terseness, DRY, trust)
+
+----
+
+Rails (A web application framework developed in the 2000s using the Ruby language)
+
+Ruby on Rails is a comprehensive and mature platform for developing web applications and services.  It is built on an interpretation of the Model-View-Controller pattern, which if followed, allows for robust and very maintainable code.  We will touch on the following topics as the class builds a rails solution:
+
+ * Rubygems and the bundler
+ * Models
+   * Data access (ActiveRecord)
+   * Migrations
+ * Controllers
+   * Providing web page access
+   * REST-style APIs
+ * Views
+   * Administration interfaces using the scaffold
+ * Routing
