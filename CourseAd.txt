@@ -3,24 +3,24 @@ Rails for iOS Developers
 
 Do you have a mobile application on iOS that requires more than basic cloud support?  
 
-Provide your own custom application server API using Ruby on Rails, the most productive and maintainable web server platform available.  Ruby on Rails is fully open source and used for thousands of large web applications and services worldwide today.  
+Provide your own custom application server API using Ruby on Rails, the most productive and maintainable web server platform available.  Ruby on Rails is fully open source and used for hundreds of thousands of web applications and services worldwide today.  
 
-This course is for you if you are a mobile application developer and any of the following problems interest you:
+This course is for you if you are a mobile application developer and any of the following interest you:
 
  * Providing interaction between mobile users
- * Providing a web interface separate from the mobile application
- * Improving your SEO (Search engine optimization) by providing an integrated marketing web site or blog
+ * Providing part or all of your application functionality on on the web
+ * Improving your SEO (Search Engine Optimization) by providing an integrated marketing web site or blog
  * Aggregating and analyzing activity on your mobile application
  * Providing an API to external applications to allow integration to your mobile solution
- * Have tried using proprietary back-end technologies such as .NET or Java and find them too heavyweight.
- * Existing platforms for mobile games or other apps are too limiting or expensive
- * Want to be able to build and deploy apps after a single weekend rather than try to learn through books, screencasts, or on-line forums.
- * Want to be able to learn from experienced rails developers who have been active on the platform since it was pre 1.0 (we started before 1.0, right Lori?)
+ * Replacing your server implementation on a cumbersome, brittle, expensive, and/or proprietary stack such as .NET, Java, or PHP
+ * Escaping the limitations of a third-party or proprietary gaming or UI framework
+ * Speeding up the initial Ruby on Rails learning curve by spending a weekend in a coding bootcamp
+ * Learning from experienced rails developers who have been active on the platform since it was pre 1.0
  
-This two day course will take you through building an iOS application including deployment to Heroku, a cloud based Ruby on Rails provider.
+This two day course will take you through building an iOS application including deployment to Heroku, a cloud based Ruby on Rails hosting provider.   We will also include some time to address specific concerns from participants in order to increase the value of the course to your specific needs.
 
 
-
+ 
 ----
 
 Ruby (A multi-purpose scripting language developed in the 1990s)
@@ -37,7 +37,7 @@ We will briefly cover the most important aspects of the Ruby language.
 
 Rails (A web application framework developed in the 2000s using the Ruby language)
 
-Ruby on Rails is a comprehensive and mature platform for developing web applications and services.  It is built on an interpretation of the Model-View-Controller pattern, which if followed, allows for robust and very maintainable code.  We will touch on the following topics as the class builds a rails solution:
+Ruby on Rails is a comprehensive and mature platform for developing web applications and services.  It is built on an interpretation of the Model-View-Controller pattern, which if followed, allows for robust and very maintainable code.  We will introduce the following core Rails topics as the class builds a rails solution:
 
  * Rubygems and the bundler
  * Models
