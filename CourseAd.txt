@@ -49,3 +49,17 @@ Ruby on Rails is a comprehensive and mature platform for developing web applicat
  * Views
    * Administration interfaces using the scaffold
  * Routing
+
+----
+
+Pitch 1
+
+You've got your iPhone app almost ready to go, but now you need a website. You're an iOS developer, not a web developer, and every day that goes by is another day that your app ISN'T in the App Store. You can outsource your server-side development, but that costs both time & money.  What if you could build your own website? Our Rails for iOS Developers Workshop will help you get your responsive website up and running, using the powerful Ruby on Rails framework, from creation to deployment, in straight-forward, easy to follow steps.
+
+Pitch 2
+
+You've got your iOS app almost ready to go, but now you need to supply data updates without re-releasing the app every time.  You need a server-based data source, but you're an iOS developer, not a web developer. Where do you start?  We've seen the problems that iOS developers experience, when diving into server side development for the first time and we can help with our Rails for iOS Developers Workshop.  Ruby on Rails is a powerful framework, but you don't need it all. We've got you covered, with a workshop that delivers Ruby on Rails (the good parts) that you need to get your app out the door. 
+
+Pitch 3
+
+Your iPhone app is almost ready to go, you just need to add a communication channel between app users. You need a server-side API to facilitate.  How do you do that, anyway?  Ruby on Rails seems like the answer to your problems, but iOS developers also need additional tools and gems that the average Rails developer knows nothing about. Our Rails for iOS Developers Workshop covers those tools, with working examples, building a working server for a real iOS app, with code for both client and server sides.  We'll help you get that app out the door.
