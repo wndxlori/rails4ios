@@ -20,6 +20,13 @@ TODOs
 THINGS TO EXPLORE
 
  * RestKit
+ * NS Rails
+ * AF networking
+
+PAIN POINTS
+
+ * Web!
+ * Design!
 
 
 MARKETING
