@@ -1,0 +1,2 @@
+module FieldTripsHelper
+end

@@ -1,0 +1,25 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  board: MyString
+  category: MyString
+  school_type: MyString
+  name: MyString
+  address: MyString
+  city: MyString
+  province: MyString
+  postal_code: MyString
+  grade_range: MyString
+  has_ecs: false
+
+two:
+  board: MyString
+  category: MyString
+  school_type: MyString
+  name: MyString
+  address: MyString
+  city: MyString
+  province: MyString
+  postal_code: MyString
+  grade_range: MyString
+  has_ecs: false

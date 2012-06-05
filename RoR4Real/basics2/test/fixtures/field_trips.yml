@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  subject_area: MyString
+  trip_date: 2011-03-12
+  grade_range: 
+
+two:
+  name: MyString
+  subject_area: MyString
+  trip_date: 2011-03-12
+  grade_range: 

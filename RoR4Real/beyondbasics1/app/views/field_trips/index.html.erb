@@ -1,0 +1,30 @@
+<h1>Listing field_trips</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Subject area</th>
+    <th>Trip date</th>
+    <th>Grade range</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @field_trips.each do |field_trip| %>
+  <tr>
+    <td><%= field_trip.name %></td>
+    <td><%= field_trip.subject_area %></td>
+    <td><%= field_trip.trip_date %></td>
+    <td><%= field_trip.grade_range.name %></td>
+    <td><%= link_to 'Enrollment List', registrations_field_trip_path(field_trip) %>
+    <td><%= link_to 'Show', field_trip %></td>
+    <td><%= link_to 'Edit', edit_field_trip_path(field_trip) %></td>
+    <td><%= link_to 'Destroy', field_trip, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Field trip', new_field_trip_path %>

@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  from_grade: 1
+  to_grade: 1
+
+two:
+  name: MyString
+  from_grade: 1
+  to_grade: 1

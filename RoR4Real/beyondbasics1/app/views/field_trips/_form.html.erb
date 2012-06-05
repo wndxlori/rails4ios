@@ -1,0 +1,33 @@
+<%= form_for(@field_trip) do |f| %>
+  <% if @field_trip.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@field_trip.errors.count, "error") %> prohibited this field_trip from being saved:</h2>
+
+      <ul>
+      <% @field_trip.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :subject_area %><br />
+    <%= f.text_field :subject_area %>
+  </div>
+  <div class="field">
+    <%= f.label :trip_date %><br />
+    <%= f.date_select :trip_date %>
+  </div>
+  <div class="field">
+    <%= f.label :grade_range %><br />
+    <%= f.select :grade_range_id, GradeRange.all.collect{|gr| [gr.name, gr.id]} %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

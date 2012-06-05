@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @field_trip.name %>
+</p>
+
+<p>
+  <b>Subject area:</b>
+  <%= @field_trip.subject_area %>
+</p>
+
+<p>
+  <b>Trip date:</b>
+  <%= @field_trip.trip_date %>
+</p>
+
+<p>
+  <b>Grade range:</b>
+  <%= @field_trip.grade_range.name %>
+</p>
+
+
+<%= link_to 'Edit', edit_field_trip_path(@field_trip) %> |
+<%= link_to 'Back', field_trips_path %>
