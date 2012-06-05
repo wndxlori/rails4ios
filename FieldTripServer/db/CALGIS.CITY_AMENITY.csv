@@ -1,0 +1,484 @@
+TYPE,NAME,ADDRESS,COMM_CODE
+Fire Station,Fire Station 10,1909 16 AV NW,HOU
+Fire Station,Fire Station 11,5536 4 ST SW,WND
+Fire Station,Fire Station 12,123 44 ST SE,FHT
+Fire Station,Fire Station 13,2021 78 AV NE,CIA
+Fire Station,Fire Station 14,9840 HORTON RD SW,HAY
+Fire Station,Fire Station 15,6328 35 AV NW,BOW
+Fire Station,Fire Station 16 HQ,4124 11 ST SE,HIF
+Fire Station,Fire Station 17,3740 32 AV NW,VAR
+Fire Station,Fire Station 18,415 68 AV NW,HUN
+Fire Station,Fire Station 19,13807 PARKLAND BV SE,PKL
+Fire Station,Fire Station 2,1010 10 AV SW,BLN
+Fire Station,Fire Station 20,2800 PEACEKEEPERS WY SW,LPK
+Fire Station,Fire Station 21,209 SILVERGROVE DR NW,SIL
+Fire Station,Fire Station 22,7199 TEMPLE DR NE,TEM
+Fire Station,Fire Station 23,2727 26 AV SE,DOV
+Fire Station,Fire Station 24,2607 106 AV SW,CED
+Fire Station,Fire Station 25,4705 76 AV SE,FHI
+Fire Station,Fire Station 26,450 MIDPARK WY SE,MID
+Fire Station,Fire Station 28,7925 EDGEMONT BV NW,EDG
+Fire Station,Fire Station 29,7027 COACH HILL RD SW,COA
+Fire Station,Fire Station 30,6 McKENZIE TOWNE GA SE,MCT
+Fire Station,Fire Station 31,11955 COUNTRY VILLAGE LI  NE,CHV
+Fire Station,Fire Station 32,800 SADDLETOWNE CI NE,TAR
+Fire Station,Fire Station 33,3800 69 ST SW,SIG
+Fire Station,Fire Station 34,1 ROYAL BIRCH HL NW,ROY
+Fire Station,Fire Station 35,11280 VALLEY RIDGE BV NW,VAL
+Fire Station,Fire Station 36,10071 HIDDEN VALLEY DR NW,HID
+Fire Station,Fire Station 37,2375 162 AV SW,BRI
+Fire Station,Fire Station 38,3 SKYVIEW SPRINGS CV NE,SKR
+Fire Station,Fire Station 4,1991 18 AV NE,VIS
+Off Leash Dog Area,VARSITY,4025R 53 ST NW,VAR
+Off Leash Dog Area,VARSITY,4944 53 ST NW,VAR
+Indoor Pool,VRRI Recreation Centre,3304 33 ST NW,VAR
+Golf Course,Valley Ridge Golf Course,11618 VALLEY RIDGE PK NW,VAL
+City Park,Valleyview Park,3103 28 ST SE,DOV
+Outdoor Pool,Valleyview Spray Park,28 ST & 30 AV SE,DOV
+Outdoor Pool,Variety Park Spray Deck,9035 24 ST SW,GPK
+Recycle Depot,Varsity,Varley DR NW,UOC
+Police Service,Victoria Park Station (Downtown),334 11 AV SE,BLN
+Recycle Depot,Village Square,2520 52 ST NE,PIN
+Indoor Pool,Village Square Leisure Centre,2623 56 ST NE,PIN
+Arena,Village Square Leisure Centre,2623 56 ST NE,PIN
+Leisure Centre,Village Square Leisure Centre,2623 56 ST NE,PIN
+Off Leash Dog Area,WEST HILLHURST,1025 19 ST NW,WHL
+Off Leash Dog Area,WILDWOOD,5050 SPRUCE DR SW,WLD
+Off Leash Dog Area,WILLOW PARK,735 WILLACY DR SE,WIL
+Off Leash Dog Area,WINSTON HEIGHTS/MOUNTVIEW,1050 16 AV NE,WIN
+City Park,Weaselhead Flats,66 AV SW & 37 ST SW,GPK
+Arena,West Hillhurst Communty Centre,1940 6 AV NW,WHL
+Recycle Depot,West Hills,200 Stewart GR SW,SIG
+City Park,West Nose Creek Confluence Park,N of BEDDINGTON TR NW between HARVEST HILLS BV & DEERFOOT TR N,ABP
+Leisure Centre,Westside Recreation Centre,2000 69 ST SW,SIG
+Arena,Westside Recreation Centre,2000 69 ST SW,SIG
+Indoor Pool,Westside Recreation Centre,2000 69 ST SW,SIG
+Art Centre,Wildflower Arts Centre,3363 SPRUCE DR SW,SPR
+Golf Course,Willow Park Golf & Country Club,639 WILLOW PARK DR SE,WIL
+Athletic Park,Woodbine Athletic Field,96 WOODFIELD DR SW,WBN
+Fire Station,Fire Station 40,121 SAGE BANK CR NW,SGH
+Fire Station,Fire Station 5,3129 14 ST SW,SOC
+Fire Station,Fire Station 6,360 8 ST SW,DNC
+Fire Station,Fire Station 7,2708 4 ST NW,MOP
+Fire Station,Fire Station 8,1720 45 ST SW,RCK
+Fire Station,Fire Station 9,2515 78 AV SE,OGD
+City Park,Fish Creek Provincial Park,1840 160 AV SW,FPK
+Indoor Pool,Fitness On 5th YWCA,320 5 AV SE,DNC
+Athletic Park,Foothills Athletic Park,2431 CROWCHILD TR NW,UOC
+Off Leash Dog Area,SHAGANAPPI,100 29 ST SW,SHG
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SILVER SPRINGS,BOWMONT PARK NATURAL AREA,SIL
+Off Leash Dog Area,SOUTHVIEW,2015 26 ST SE,SOV
+Off Leash Dog Area,SOUTHWOOD,1355 SOUTHDALE CR SW,SOW
+Off Leash Dog Area,ST. ANDREWS HEIGHTS,2840 8 AV NW,STA
+Off Leash Dog Area,STRATHCONA PARK,795 STRATHCONA DR SW,STR
+Off Leash Dog Area,RICHMOND,2001 22 ST SW,RIC
+Off Leash Dog Area,RIVERBEND,115R RIVERSIDE WY SE,RIV
+Off Leash Dog Area,RIVERBEND,755 RIVERBEND DR SE,RIV
+Off Leash Dog Area,ROSEDALE,1101 CRESCENT RD NW,RDL
+Off Leash Dog Area,RUNDLE,333 RUNDLERIDGE DR NE,RUN
+City Park,Ranchlands Natural Park,700 RANCHLANDS BV NW,RAN
+City Park,Reader Rock Gardens,MACLEOD TR SW & 25 AV SW,MNI
+Recycle Depot,Renfrew,16 AV and Russet RD NE,REN
+Athletic Park,Renfrew Athletic Park,814 13 AV NE,REN
+Indoor Pool,Renfrew Pool & Fitness Centre,810 13 AV NE,REN
+Golf Course,Richmond Green Golf Course,2539 33 AV SW,RIC
+Recycle Depot,Richmond Square,3915 51 ST SW,GBK
+City Park,Riley Park,800 12 ST NW,HIL
+Outdoor Pool,Riley Park Wading Pool,800 12 ST NW,HIL
+City Park,River Park,4500 14A ST SW,ALT
+Golf Course,River Spirit Golf Club,W HWY 8 N RR 34 (Elbow Valley),06A
+Police Service,Riverbend / Ogden Community Station,#350 8338 18 ST SE,RIV
+City Park,Riveredge Park,4500 14A ST SW,EPK
+Arena,Rose Kohn/Jimmie Condon Arenas,502 HERITAGE DR SW,KIN
+City Park,Rotary Park,617 1 ST NE,CRE
+Outdoor Pool,Rotary Park Wading Pool,617 1 ST NE,CRE
+City Park,Rouleauville Square,17 AV SW & 1 ST SW,MIS
+Off Leash Dog Area,SADDLE RIDGE INDUSTRIAL,4420 72 AV NE,SRI
+Indoor Pool,SAIT,1301 16 AV NW,HIL
+Arena,SAIT Arena (Campus Centre),1414C SAIT WY NW,HIL
+Off Leash Dog Area,SANDSTONE VALLEY,24 SANDERLING CL NW,SAN
+Off Leash Dog Area,SANDSTONE VALLEY,1880 BERKSHIRE BV NW,SAN
+Off Leash Dog Area,SANDSTONE VALLEY,80R SANDARAC DR NW,SAN
+Off Leash Dog Area,SCARBORO,2212 17 AV SW,SCA
+Off Leash Dog Area,SCARBORO,1628 SHELBOURNE ST SW,SCA
+Off Leash Dog Area,SCARBORO/ SUNALTA WEST,1616 22 ST SW,SSW
+Off Leash Dog Area,SCENIC ACRES,8611 CROWCHILD TR NW,SCE
+Off Leash Dog Area,INGLEWOOD,2226 16 ST SE,ING
+Off Leash Dog Area,INGLEWOOD,2255 15A ST SE,ING
+City Park,Inglewood Bird Sanctuary,2425 9 AV SE,ING
+Golf Course,Inglewood Golf & Curling Club,34 AVE & BARLOW TR SE,DOV
+Indoor Pool,Inglewood Pool,1527 17 AV SE,AYB
+Arena,Jack Setters Arena,2020 69 AV SE,OGD
+City Park,James Short Park,115 4 AV SW,DNC
+Off Leash Dog Area,KINGSLAND,499 78 AV SW,KIN
+Indoor Pool,Killarney Aquatic & Recreation Centre,1919 29 ST SW,KIL
+Leisure Centre,Killarney Aquatic & Recreation Centre,1919 29 ST SW,KIL
+Off Leash Dog Area,LAKE BONAVISTA,12446 LAKE FRASER DR SE,LKB
+Off Leash Dog Area,LAKE BONAVISTA,12008 LAKE EMERALD CR SE,LKB
+Off Leash Dog Area,LAKE BONAVISTA,915 LAKE ONTARIO DR SE,LKB
+Off Leash Dog Area,LAKEVIEW,3129 GLENMORE TR SW,LKV
+Arena,Lake Bonavista Community Centre,1401 ACADIA DR SE,LKB
+Recycle Depot,Lakeview,6449 Crowchild TR SW,LKV
+Golf Course,Lakeview Golf Course,5840 19 ST SW,GPK
+City Park,Lowery Gardens,Between DOUGLAS FIR TR SW & THE PUMPHOUSE THEATRE,SHG
+Golf Course,Lynx Ridge Golf Club,8 LYNX RIDGE BV NW (Bearspaw),01F
+Off Leash Dog Area,MAPLE RIDGE,9820 15 ST SE,MPL
+Off Leash Dog Area,MAPLE RIDGE,1127 MAPLEGLADE DR SE,MPL
+Off Leash Dog Area,MARLBOROUGH,1448 MARDALE WY NE,MRL
+Off Leash Dog Area,MARLBOROUGH PARK,16 AV NE / 68 ST NE,MPK
+Off Leash Dog Area,MAYLAND HEIGHTS,325 19 ST NE,MAL
+Off Leash Dog Area,MAYLAND HEIGHTS,320 19 ST NE,MAL
+Off Leash Dog Area,MCCALL,3735 11A ST NE,MCI
+Off Leash Dog Area,MONTGOMERY,4707 MONTALBAN DR NW,MON
+Off Leash Dog Area,MONTGOMERY,3225 MACKAY RD NW,MON
+Recycle Depot,Macleod,9630 Macleod TR SE,ACA
+Recycle Depot,Manchester,Dartmouth Rd,MNI
+Golf Course,Maple Ridge Golf Course,1240 MAPLEGLADE DR SE,MPL
+Recycle Depot,Market Mall,3625 Shaganappi TR NW,VAR
+Police Service,Market Mall Community Station,3625 SHAGANAPPI TR NW,VAR
+Recycle Depot,Marlborough,500 Block of 36 ST NE,MRL
+Arena,Max Bell Centre,1001 BARLOW TR NE,ALB
+Golf Course,McCall Lake Golf Course,1600 32 AV NE,MCI
+City Park,McHugh Bluff Natural Park,"Along CRESCENT RD NW, between 10 ST NW & CENTRE ST N",RDL
+Golf Course,McKenzie Meadows Golf Club,17215 MCKENZIE MEADOWS DR SE,FPK
+Recycle Depot,McKenzie Towne,20 McKenzie Towne AV SE,MCT
+Recycle Depot,Midnapore Sundance,Bannister RD and 153 AVSE,MID
+Outdoor Pool,Millican-Ogden Outdoor Pool,6901 20A ST SE,OGD
+Recycle Depot,Millrise,150 Millrise Blvd SW,MLR
+Recycle Depot,Monterey,2220 68 ST NE,MOR
+Arena,Mount Pleasant Community Sportsplex,2408 6 ST NW,ALB
+Outdoor Pool,Mount Pleasant Outdoor Pool,2310 6 ST NW,MOP
+Indoor Pool,Mount Royal University,4825 RICHARD RD SW,LPK
+Arena,Murray Copot Arena,6715 CENTER ST NW,HUN
+Off Leash Dog Area,NORTH HAVEN UPPER,72 NIVEN PL NW,NHU
+Off Leash Dog Area,NOSE HILL PARK,8108 SHAGANAPPI TR NW,NPK
+City Park,Nat Christie Park,14 ST SW & Bow TR SW,DNW
+City Park,North Capitol Hill Park (Canmore Park),19 ST NW & CHICOUTIMI DR NW,CHW
+Recycle Depot,North Hill,1901 16 AV NW,HOU
+Art Centre,North Mount Pleasant Arts Centre,523 27 AV NW,MOP
+Leisure Centre,Nose Creek Recreation Centre,11950 COUNTRY VILLAGE LI NE,CHV
+City Park,Nose Hill Natural Park,5620 14 ST NW,NPK
+Off Leash Dog Area,OGDEN,1003 LYSANDER DR SE,OGD
+Off Leash Dog Area,OGDEN,1951 69 AV SE,OGD
+Off Leash Dog Area,OGDEN,7120 20A ST SE,OGD
+Off Leash Dog Area,OGDEN,7824 22 ST SE,OGD
+Off Leash Dog Area,OGDEN,104R OGMOOR CR SE,OGD
+Recycle Depot,Oakridge,2580 Southland DR SW,OAK
+Arena,Oakridge Community Association,9504 OAKFIELD DR SW,OAK
+Recycle Depot,Ogden,7740 18 ST SE,OGD
+Arena,Olympic Oval - University Of Calgary,184 UNIVERSITY GATE NW,UOC
+City Park,Olympic Plaza,228 8 AV SE,DNC
+Outdoor Pool,Olympic Plaza Reflecting Pool,228 8 AV SE,DNC
+Athletic Park,Optimist Athletic Park,5020 26 AV SW,GDL
+Arena,Optimist/George Blundun Arenas,5020 26 AV SW,GDL
+Off Leash Dog Area,PARKLAND,14220 PARKLAND BV SE,PKL
+Off Leash Dog Area,PINERIDGE,6127 PINECREST WY NE,PIN
+Off Leash Dog Area,PUMP HILL,344 PUMP HILL GD SW,PUM
+City Park,Peace Park,2 AV SW & 8 ST SW,EAU
+City Park,Pearce Estates Wetland,1440 17A ST SE,ING
+Arena,Pengrowth Saddledome,555 SADDLEDOME RI SE,BLN
+Golf Course,Pinebrook Golf & Country Club,166 PINEBROOK WY SW (Elbow Valley),06A
+Police Service,Police Headquarters,133 6 AV SE,DNC
+Athletic Park,Pop Davies Athletic Park,6415 OGDEN RD SW,OGD
+Outdoor Pool,Prairie Winds Outdoor Wading Pool,223 CASTLERIDGE BV NE,WES
+City Park,Prarie Winds,223 CASTLERIDGE BV NE,WES
+City Park,Prince's Island,4 ST SW & 1 AV SW,EAU
+Off Leash Dog Area,QUEENSLAND,48R QUEEN ALEXANDRA CL SE,QLD
+Off Leash Dog Area,QUEENSLAND,340R QUEEN ANNE WY SE,QLD
+Cemetery,Queen's Park Cemetery,32 AV NW & 4 ST NW,MOP
+Off Leash Dog Area,RAMSAY,811 MACDONALD AV SE,RAM
+Off Leash Dog Area,RAMSAY,1901 SALISBURY ST SE,RAM
+Off Leash Dog Area,RANCHLANDS,200 RANCH ESTATES DR NW,RAN
+Off Leash Dog Area,RANCHLANDS,655 RANCHLANDS BV NW,RAN
+Off Leash Dog Area,RANCHLANDS,239 RANCH ESTATES DR NW,RAN
+Police Service,RCMP Southern Alberta,920 16 AV NW,WIN
+Off Leash Dog Area,RENFREW,1020 ROBERT RD NE,REN
+Off Leash Dog Area,RENFREW,1638 CENTRE AV NE,REN
+Off Leash Dog Area,SCENIC ACRES,8611 CROWCHILD TR NW,SCE
+Off Leash Dog Area,SCENIC ACRES,8611 CROWCHILD TR NW,SCE
+Leisure Centre,Southland Leisure Centre,2000 SOUTHLAND DR SW,PAL
+City Park,Southland Natural Park,SOUTHLAND DR SE & DEERFOOT TR SE,MPL
+Golf Course,Springbank Links at Emerald Bay,125 HUCKAMORE TR (Springbank),01H
+Recycle Depot,Spruce Cliff,3400 Block of Spruce DR SW,SPR
+Landfill,Spyhill Landfill,69 ST and 112 AV NW,02F
+Haz Good Drop,Spyhill Landfill,69 ST and 112 AV NW,02F
+Cemetery,St. Mary's Cemetery,ERLTON ST SW & 32 AV SW,ERL
+Arena,Stampede Corral,10 ROUNDUP WY SE,BLN
+City Park,Stanley Park,4011 1A ST SW,PKH
+Outdoor Pool,Stanley Park Outdoor & Wading Pool,4011 1A STREET SW,PKH
+Arena,Stew Hendry/Henry Viney Arenas,814 13 AV NE,REN
+Recycle Depot,Strathcona,555 Strathcona BV SW,STR
+Arena,Stu Peppard Glenmore Arena,5300 19 ST SW,GPK
+Recycle Depot,Sunridge,2525 36 ST NE,SUN
+Off Leash Dog Area,THORNCLIFFE,280 NORTHMOUNT DR NW,THO
+Off Leash Dog Area,THORNCLIFFE,628 63 AV NW,THO
+Off Leash Dog Area,THORNCLIFFE,41 AV SW,THO
+Off Leash Dog Area,THORNCLIFFE,6227 TOUCHWOOD DR NW,THO
+Off Leash Dog Area,THORNCLIFFE,535 64 AV NE,THO
+Off Leash Dog Area,THORNCLIFFE,980 48 AV NW,THO
+Off Leash Dog Area,TUSCANY,8951 ROCKY RIDGE RD NW,TUS
+Off Leash Dog Area,TUSCANY,TUSCANY COMMUNITY,TUS
+Indoor Pool,Talisman Centre for Sport,2225 MACLEOD TR S,ERL
+Leisure Centre,Talisman Centre for Sport,2225 MACLEOD TR S,ERL
+Arena,Thorncliffe Greenview Community Association,5600 CENTER ST NW,THO
+Indoor Pool,Thornhill Aquatic & Recreation Centre,6715 CENTRE ST NW,HUN
+Leisure Centre,Thornhill Aquatic & Recreation Centre,6715 CENTRE ST NW,HUN
+Athletic Park,Tom Brook Athletic Park,2000 SOUTHLAND DR SW,PAL
+City Park,Tom Campbell's Hill Natural Park,25 ST GEORGES DR NE,BRD
+City Park,Tomkins Park,17 AV & 8 ST SW,BLN
+Recycle Depot,Trans Canada East,#300 1440 52 ST NE,MPK
+Recycle Depot,Trans Canada West,Southwest of intersection Stoney TR N and Trans Canada HI W,01C
+Indoor Pool,Trico Centre for Family Wellness,11150 BONAVENTURE DR SE,WIL
+Leisure Centre,Trico Centre for Family Wellness,11150 BONAVENTURE DR SE,WIL
+Arena,Triwood Community Association,2244 CHICOUTIMI DR NW,CHW
+Recycle Depot,Tuscany,5019 Nose Hill DR NW,TUS
+City Park,Twelve-mile Coulee Natural Park,TUSCANY BV NW & STONEY TRAIL NW,TUS
+Cemetery,Union Cemetery,SPILLER RD SE & 27 AV SE,MNI
+Indoor Pool,University Of Calgary - Kinesiology Bldg B,10 UNIVERSITY GT NW,UOC
+Recycle Depot,South Trail,5125 126 AV SE,ESH
+Recycle Depot,Southcentre,11011 Bonaventure DR SE,WIL
+Indoor Pool,Southland Leisure Centre,2000 SOUTHLAND DR SW,PAL
+Recycle Depot,Horizon,3550 32 AV NE,HOR
+Recycle Depot,Huntington Hills,7020 4 ST NW,HUN
+Arena,Huntington Hills Community Association,520 78 AV NW,HUN
+Arena,E.Whalen & J.Kryczka Arenas in Southland Leisure Cntr,2000 SOUTHLAND DR SW,PAL
+Off Leash Dog Area,EDGEMONT,7950 EDGEMONT BV NW,EDG
+Off Leash Dog Area,EDGEMONT,175 EDGEDALE DR NW,EDG
+Off Leash Dog Area,EDGEMONT,91 EDGEPARK BV NW,EDG
+Off Leash Dog Area,ELBOW PARK,800 34 AV SW,EPK
+Off Leash Dog Area,ELBOYA,521 LANSDOWNE AV SW,EYA
+EMS Station,EMS Headquarters,3705 35 ST NE,HOR
+EMS Station,EMS Station 1,450 1 ST SE,DNC
+EMS Station,EMS Station 11,5536 4 ST SW,WND
+EMS Station,EMS Station 12,123 44 ST SE,FHT
+EMS Station,EMS Station 14,9840 HORTON RD SW,HAY
+EMS Station,EMS Station 15,5010 BOWNESS RD NW,MON
+EMS Station,EMS Station 17,3740 32 AV NW,VAR
+EMS Station,EMS Station 18,415 68 AV NW,HUN
+EMS Station,EMS Station 19,13807 PARKLAND BV SE,PKL
+EMS Station,EMS Station 2,1010 10 AV SW,BLN
+EMS Station,EMS Station 20,2800 PEACEKEEPERS WY SW,LPK
+EMS Station,EMS Station 21,209 SILVERGROVE DR NW,SIL
+EMS Station,EMS Station 22,7199 TEMPLE DR NE,TEM
+EMS Station,EMS Station 23,2727 26 AV SE,DOV
+EMS Station,EMS Station 24,2607 106 AV SW,CED
+EMS Station,EMS Station 26,450 MIDPARK WY SE,MID
+EMS Station,EMS Station 28,7925 EDGEMONT BV NW,EDG
+EMS Station,EMS Station 3,1807 MACLEOD TR SE,BLN
+EMS Station,EMS Station 30,6 MCKENZIE TOWNE GA SE,MCT
+EMS Station,EMS Station 31,11955 COUNTRY VILLAGE LI NE,CHV
+EMS Station,EMS Station 32,29 SADDLE CREEK COVE NE,SAD
+EMS Station,EMS Station 33,7055 ELKTON DR SW,SPH
+EMS Station,EMS Station 34,9 ROYAL BIRCH HILL NW,ROY
+EMS Station,EMS Station 4,16 MONCTON RD NE,WIN
+EMS Station,EMS Station 5,4824 4 ST NW,HPK
+EMS Station,EMS Station 6,1940 WESTMOUNT BV NW,WHL
+EMS Station,EMS Station 8,1720 45 ST SW,RCK
+EMS Station,EMS Station 9,2515 78 AV SE,OGD
+Golf Course,Earl Grey Golf Club,6540 20 ST SW,GPK
+Landfill,East Calgary Landfill,68 ST and 17 AV SE,09E
+Haz Good Drop,East Calgary Landfill,68 ST and 17 AV SE,09E
+Arena,East Calgary Twin Arenas,299 ERINWOOD DR SE,ERI
+Indoor Pool,Eau Claire YMCA,101 3 ST SW,EAU
+City Park,Edgemont Ravines,EDGEBROOK DR NW & EDGEBROOK BV NW,EDG
+City Park,Edworthy Park / Douglas Fir Trail,5050 SPRUCE DR SW,WLD
+Golf Course,Elbow Springs Golf Club,GLENMORE TR SW (Elbow Valley),06A
+City Park,Elliston Regonal Park,17AV SE & 60 ST SE,09E
+Arena,Ernie Starr Arena,4808 14 AV SE,FLN
+Off Leash Dog Area,FAIRVIEW,7510 FLINT RD SE,FAI
+Off Leash Dog Area,FAIRVIEW,128 FYFFE RD SE,FAI
+Off Leash Dog Area,FALCONRIDGE,MCKNIGHT BV NE / 68 ST NE,FAL
+Arena,Fairview Community Association Arena,8038 FAIRMONT DR SE,FAI
+Arena,Family Leisure Centre,11150 BONAVENTURE DR SE,WIL
+Arena,Father David Bauer/Norma Bush Arenas,2424 UNIVERSITY DR NW,UOC
+Haz Good Drop,Fire Hall 17,3740 32 AV NW,VAR
+Haz Good Drop,Fire Hall 20,2800 Peacekeepers WY SW,LPK
+Haz Good Drop,Fire Hall 24,2607 106 AV SW,CED
+Haz Good Drop,Fire Hall 26,450 Midpark WY SE,MID
+Haz Good Drop,Fire Hall 4,1991 18 AV NE,VIS
+Fire Station,Fire Station 1,450 1 ST SE,DNC
+Off Leash Dog Area,HUNTINGTON HILLS,303 BEDDINGTON BV NE,HUN
+Off Leash Dog Area,HUNTINGTON HILLS,7409 HUNTERVIEW DR NW,HUN
+Off Leash Dog Area,HUNTINGTON HILLS,8111 BEDDINGTON BV NW,HUN
+Off Leash Dog Area,HUNTINGTON HILLS,105R HUNTSTROM DR NE,HUN
+Recycle Depot,Hamptons,1000 Hamptons DR NW,HAM
+Golf Course,Harvest Hills Golf Course,1450 HARVEST HILLS DR NE,HAR
+City Park,Haultain Park,225 15 AV SW,BLN
+Golf Course,Heatherglen Golf Course,100 ST & GLENMORE TR SE,09K
+Golf Course,Heritage Pointe Golf Club,S HWY 2 E DUNBOW RD (DeWinton),LEG
+Golf Course,Highland Golf & Country Club,4304 3 ST NW,HPK
+Outdoor Pool,Highwood Outdoor & Wading Pool,25 HOLMWOOD AV NW,HIW
+Recycle Depot,Hillhurst/Sunnyside,1320 5 AV NW,HIL
+Off Leash Dog Area,09E,2020 60 ST SE,09E
+Off Leash Dog Area,09E,1821 68 ST SE,09E
+Off Leash Dog Area,ALBERT PARK/RADISSON HEIGHTS,1635 DEERFOOT TR SE,ALB
+Off Leash Dog Area,ALTADORE,5030 14 ST SW,ALT
+Off Leash Dog Area,AUBURN BAY,16970 56 ST SE,AUB
+Recycle Depot,Acadia,383 Heritage DR SE,ACA
+Athletic Park,Acadia Athletic Park,315 90 AV SE,ACA
+Indoor Pool,Acadia Pool & Fitness Centre,9009 FAIRMOUNT DR SE,ACA
+Arena,Acadia Recreation Centre,240 90 AV SE,ACA
+Police Service,Airport Unit Police Station,2000 AIRPORT RD NE,CIA
+Public Toilet,Automated Public Toilet,7 ST/ 17 AV SW,BLN
+Off Leash Dog Area,BEDDINGTON HEIGHTS,1052R BERKLEY DR NW,BED
+Off Leash Dog Area,COLLINGWOOD,1612 CAYUGA DR NW,COL
+Off Leash Dog Area,COLLINGWOOD,1924 CANBERRA RD NW,COL
+Off Leash Dog Area,CRESCENT HEIGHTS,425 1 ST NE,CRE
+Arena,Calgary Centennial Arenas,2390 47 AV SW,ALT
+Golf Course,Calgary Elks Lodge & Golf Club,2502 6 ST NE,WIN
+Indoor Pool,Calgary Glencoe Club,636 29 AV SW,EPK
+Golf Course,Calgary Golf & Country Club,ELBOW DR & 59 AV SW,WND
+Indoor Pool,Calgary Jewish Centre,1607 90 AV SW,PUM
+Indoor Pool,Calgary South YMCA,11 HADDON RD SW,HAY
+Arena,Calgary Winter Club,4611 14ST NW,NPK
+Outdoor Pool,Canmore Park Wading Pool,2836 CANMORE RD NW,CHW
+Golf Course,Canyon Meadows Golf & Country Club,12501 14 ST SW,WOO
+Indoor Pool,Foothills Pool,2915 24 AV NW,UOC
+Recycle Depot,Forest Lawn,3330 17 AV SE,ALB
+Athletic Park,Forest Lawn Athletic Park,4808 14 AV SE,FLN
+Outdoor Pool,Forest Lawn Outdoor Pool,1706 39 ST SE,FLN
+Golf Course,Fox Hollow Golf Course,999 32 AV NE,WIN
+Arena,Frank McCool Arena,1900 LAKE BONAVISTA DR SE,LKB
+Athletic Park,Frank McCool Athletic Park,1900 LAKE BONAVISTA DR SE,LKB
+Off Leash Dog Area,GLAMORGAN,4015 37 ST SW,GLA
+Off Leash Dog Area,GLENBROOK,3312 SARCEE TR SW,GBK
+Off Leash Dog Area,GREENVIEW,302 GRIER AV NE,GRV
+Golf Course,Glencoe Golf & Country Club,636 29 AV SW,EPK
+Athletic Park,Glenmore Athletic Park,5300 19 ST SW,GPK
+Recycle Depot,Glenmore Landing,1600 90 AV SW,BYV
+City Park,Glenmore Park (North),7305 24 ST SW,GPK
+City Park,Glenmore Park (South),90 AV SW & 24 ST SW,GPK
+Indoor Pool,Glenmore Pool,5330 19 ST SW,GPK
+City Park,Griffith Woods Natural Park,36 DISCOVERY RIDGE BV SW,DIS
+Off Leash Dog Area,HAWKWOOD,100R HAWKWOOD HL NW,HAW
+Off Leash Dog Area,HAWKWOOD,15R HAWKHILL ME NW,HAW
+Off Leash Dog Area,HAWKWOOD,21 HAWKWOOD HL NW,HAW
+Off Leash Dog Area,HAWKWOOD,432R HAWKVIEW MANOR CI NW,HAW
+Off Leash Dog Area,HAYSBORO,328 HADDON RD SW,HAY
+Off Leash Dog Area,HAYSBORO,1439 HERITAGE DR SW,HAY
+Off Leash Dog Area,HIDDEN VALLEY,9900 HIDDEN VALLEY DR NW,HID
+Off Leash Dog Area,HIDDEN VALLEY,110R HIDDEN CREEK RD NW,HID
+Off Leash Dog Area,HIGHLAND PARK,4307 EDMONTON TR NE,HPK
+Off Leash Dog Area,HOUNSFIELD HEIGHTS/BRIAR HILL,1015 14 ST NW,HOU
+Off Leash Dog Area,HUNTINGTON HILLS,8031 HUNTERVIEW DR NW,HUN
+Off Leash Dog Area,HUNTINGTON HILLS,1135 78 AV NW,HUN
+Off Leash Dog Area,STRATHCONA PARK,111 STRATTON CR SW,STR
+Off Leash Dog Area,SUNALTA,2024 PUMPHOUSE AV SW,SNA
+Off Leash Dog Area,SUNALTA,815 14 ST SW,SNA
+Off Leash Dog Area,SUNNYSIDE,550 9 AV NW,SSD
+City Park,Sandy Beach,4500 14A ST SW,ALT
+Arena,Sarcee Seven Chiefs Sportsplex,3700 ANDERSON RD SW,
+Recycle Depot,Scarboro,15 AV and 16 ST SW,SCA
+Golf Course,Shaganappi Golf Course,1200 26 ST SW,SHG
+City Park,Shaw Millenium Park,9 AV SW & 11 ST SW,DNW
+Golf Course,Shawnee Slopes Golf Course,820 JAMES MCKEVITT RD SW,SHS
+Recycle Depot,Shawnessy,390 Shawville BV SE,SHN
+Indoor Pool,Shawnessy YMCA,333 SHAWVILLE BV SE,SHN
+Haz Good Drop,Shepard Landfill,68 ST and 114 AV SE,ESH
+Landfill,Shepard Landfill,68 ST and 114 AV SE,ESH
+Arena,Shouldice Arena,1515 HOME RD NW,MON
+Athletic Park,Shouldice Athletic Park,1515 HOME RD NW,MON
+City Park,Shouldice Park,BOWNESS RD NW & 56 ST NW,MON
+Indoor Pool,Shouldice Pool,5303 BOWNESS RD NW,MON
+City Park,Sien Lok Park,RIVERFRONT AV SW & 1 ST SW,CHN
+Recycle Depot,Silver Springs,5720 Silver Springs BV NW,SIL
+Police Service,Silver Springs Community Station,#2 5720 SILVER SPRINGS BV NW,SIL
+Golf Course,Silver Springs Golf & Country Club,1600 VARSITY ESTATES DR NW,VAR
+Outdoor Pool,Silver Springs Outdoor Pool,5720 SILVER RIDGE DR NW,SIL
+Indoor Pool,Sir Winston Churchill Pool & Fitness Centre,1520 NORTHMOUNT DR NW,BRE
+Recycle Depot,South Calgary,3130 16 ST SW,SOC
+Outdoor Pool,South Calgary Outdoor Pool,3130 16 ST SW,SOC
+Leisure Centre,South Fish Creek Recreation Centre,100 333 SHAWVILLE BV SE,SHN
+Arena,South Fish Creek Recreation Centre,333 SHAWVILLE BV SE,SHN
+Off Leash Dog Area,BEDDINGTON HEIGHTS,172 BERMUDA DR NW,BED
+Off Leash Dog Area,BEDDINGTON HEIGHTS,420 BERNARD ME NW,BED
+Off Leash Dog Area,BEDDINGTON HEIGHTS,300 BERMUDA DR NW,BED
+Indoor Pool,Canyon Meadows Pool & Fitness Centre,89 CANOVA RD SW,CAN
+City Park,Carburn Natural Park,8925 15 ST SE,RIV
+Indoor Pool,Cardel Place/Nose Creek Recreation Centre,11950 COUNTRY HILLS VILLAGE LK NE,CHV
+Arena,Cardel Place/Nose Creek Recreation Centre,11950 COUNTRY HILLS VILLAGE LK NE,CHV
+Golf Course,Carnmoney Golf & Country Club,S HWY 2 E DUNBOW RD (DeWinton),LEG
+Recycle Depot,Castleridge,55 Castleridge BV NE,WES
+City Park,Centenary Park,MEMORIAL DR SE & BAINES BRIDGE,BRD
+City Park,Central Memorial Park,4 ST SW & 13 AV SW,BLN
+City Park,Century Gardens,8 AV SW & 8 ST SW,DNC
+Cemetery,Chinese Cemetery,MACLEOD TR SW & 31 AV SW,ERL
+Recycle Depot,Chinook,6455 Macleod TR SW,MEA
+Police Service,Chinook Centre Mall Community Station,6455 MACLEOD TR S,MEA
+City Park,Confederation Park,24 AV NW & 14 ST NW to 30 AV NW & 10 ST NW,CAP
+Recycle Depot,Confederation Park,2807 10 ST NW,CAP
+Golf Course,Confederation Park Golf Course,3204 COLLINGWOOD DR NW,COL
+Recycle Depot,Connaught,813 11 AV SW,BLN
+City Park,Connaught Park,11 ST & 14 AV SW,BLN
+Golf Course,Cottonwood Golf & Country Club,S HWY 2 E DUNBOW RD (DeWinton),LEG
+Golf Course,Country Club of the Hamptons,69 HAMPTONS DR NW,HAM
+Recycle Depot,Country Hills,11622 Harvest Hills BV NE,CHV
+Golf Course,Country Hills Golf Club,1334 COUNTRY HILLS BV NW,PAN
+Arena,Crowchild Twin Arenas,189 SCENIC ACRES DR NW,SCE
+Recycle Depot,Crowfoot,90 Crowfoot WY NW,ARB
+Arena,Crowfoot Arena,8080 JOHN LAURIE BV NW,ARB
+Indoor Pool,Crowfoot YMCA,8100 JOHN LAURIE BV NW,ARB
+Off Leash Dog Area,DALHOUSIE,4616 DALHOUSIE DR NW,DAL
+Off Leash Dog Area,DALHOUSIE,6015R DALCASTLE CR NW,DAL
+Off Leash Dog Area,DEER RIDGE,14620 DEER RIDGE DR SE,DRG
+Off Leash Dog Area,DOVER,150 GOSLING WY SE,DOV
+Recycle Depot,Dalhousie Station,5005 Dalhousie DR NW,DAL
+Recycle Depot,Deer Valley,1221 Canyon Meadows DR SE,DRG
+City Park,Devonian Gardens,317 7 AV SW (4th Level TD Square) - temporarily closed for renovations,DNC
+Police Service,District 1 Office (Ramsay),1010 26 AV SE,AYB
+Police Service,District 2 Office (Rosscarrock),4506 17 AV SW,RCK
+Police Service,District 3 Office (Nose Hill),4303 14 ST NW,NPK
+Police Service,District 4 Office (Franklin),3207 12 AV NE,FRA
+Police Service,District 5 Office (Temple),5401 TEMPLE DR NE,TEM
+Police Service,District 6 Office (Heritage),8325 BONAVENTURE DR SE,ACA
+Police Service,District 7 Office (Country Hills Village),11955 COUNTRY VILLAGE LI NE,CHV
+Police Service,District 8 Office (Midnapore),450 MIDPARK WY SE,MID
+Arena,Don Hartman North East Sportsplex,5206 68 ST NE,COR
+Recycle Depot,Douglasdale,11520 24 ST SE,SHI
+Golf Course,Douglasdale Eaglequest Golf Course,7 DOUGLAS WOODS DR SE,DDG
+Off Leash Dog Area,BONAVISTA DOWNS,58 LAKE HURON PL SE,BDO
+Off Leash Dog Area,BRENTWOOD,5307 BARRETT DR NW,BRE
+Off Leash Dog Area,BRENTWOOD,3387R BRETON CL NW,BRE
+Off Leash Dog Area,BRIDGELAND/RIVERSIDE,53 6A ST NE,BRD
+Off Leash Dog Area,BRIDGELAND/RIVERSIDE,25 ST GEORGES DR NE,BRD
+Off Leash Dog Area,BRITANNIA,4215 8 ST SW,BRT
+City Park,Baker Park ,9333 SCENIC BOW RD NW,SCE
+City Park,Barclay Mall (Eau Claire Plaza),3 ST SW & RIVERFRONT AV SW,EAU
+Outdoor Pool,Barclay Mall Outdoor Wading Pool,380 RIVERFRONT AV SW,EAU
+City Park,Battalion Park,3001 SIGNAL HILL DR SW,SIG
+Recycle Depot,Beacon Hill,11320 Sarcee TR NW,SHW
+Golf Course,Bearspaw Golf & Country Club,61 HAMILTON DR (Bearspaw),ROC
+City Park,Beaulieu Gardens,707 13 AV SW,BLN
+City Park,Beaverdam Flats Natural Park,62 AV SE & 16 ST SE,OGD
+Recycle Depot,Beddington,8120 Beddington BV NW,BED
+Indoor Pool,Beltline Pool & Fitness Centre,221 12 AV SW,BLN
+City Park,Big Marlborough Park,6033 MADIGAN DR NE,MPK
+Indoor Pool,Bob Bahan Pool & Fitness Centre,4812 14 AV SE,FLN
+City Park,Bottomlands Park,300 800 ST GEORGES DR NE,REN
+City Park,Bowmont Park,65 ST NW & 48 AV NW,SIL
+Recycle Depot,Bowness,7937 43 AV NW,BOW
+Arena,Bowness Community Centre,7809 43 AV NW,BOW
+City Park,Bowness Park,8900 48 AV NW,BOW
+Outdoor Pool,Bowview Outdoor Pool,1910 6 AV NW,WHL
+Police Service,Brae Centre Community Station,11430 BRAESIDE DR SW,BRA
+Arena,Brentwood SportsPlex,NORTHMOUNT DR & 35 ST NW,BRE
+Recycle Depot,Bridgeland,7 11 ST NE,BRD
+Recycle Depot,Bridlewood,2335 162 AV SW,BRI
+Golf Course,Buffalo Run Golf Course,3700 ANDERSON RD SW,CED
+Athletic Park,Burns Stadium,2255 CROWCHILD TR NW,UOC
+Cemetery,Burnsland Cemetery,SPILLER RD SE & CEMETERY RD SE,MNI
+Off Leash Dog Area,CAMBRIAN HEIGHTS,1407 JOHN LAURIE BV NW,CAM
+Off Leash Dog Area,CAMBRIAN HEIGHTS,3625 10 ST NW,CAM
+Off Leash Dog Area,CAMBRIAN HEIGHTS,3425 10 ST NW,CAM
+Off Leash Dog Area,CANYON MEADOWS,ANDERSON RD SW / ELBOW DR SW,CAN
+Off Leash Dog Area,CEDARBRAE,3625 98 AV SW,CED
+Off Leash Dog Area,CHARLESWOOD,3215 CONRAD DR NW,CHW
+Off Leash Dog Area,CHINATOWN,316 RIVERFRONT AV SE,CHN
+Off Leash Dog Area,CHRISTIE PARK,1600 SARCEE TR SW,CHR
+Off Leash Dog Area,CLIFF BUNGALOW,2413 CLIFF ST SW,CLI
+Off Leash Dog Area,COACH HILL,6204 COACH HILL RD SW,COA
