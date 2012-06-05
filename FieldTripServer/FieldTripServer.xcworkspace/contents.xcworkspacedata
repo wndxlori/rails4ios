@@ -134,6 +134,16 @@
          location = "group:db"
          name = "db">
          <FileRef
+            location = "group:CALGIS.SCHOOL_LOCATION.csv">
+         </FileRef>
+         <Group
+            location = "group:migrate"
+            name = "migrate">
+            <FileRef
+               location = "group:20120605175416_create_schools.rb">
+            </FileRef>
+         </Group>
+         <FileRef
             location = "group:seeds.rb">
          </FileRef>
       </Group>
