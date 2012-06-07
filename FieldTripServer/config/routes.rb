@@ -1,6 +1,8 @@
 FieldTripServer::Application.routes.draw do
   resources :schools
 
+  mount FieldTripServer::API => "/api"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

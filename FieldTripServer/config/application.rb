@@ -57,3 +57,5 @@ module FieldTripServer
     config.assets.version = '1.0'
   end
 end
+
+require 'field_trip_server/api.rb'
