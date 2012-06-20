@@ -1,3 +1,49 @@
+Lori's notes FieldTripServer
+============================
+
+
+installing ruby 1.9.3-p125 (p194 now)
+
+rails new FieldTrip -d postgresql --skip-bundle
+
+rvm use 1.9.3
+
+bundle
+
+postgresapp.com download
+
+xcode-select -switch /Applications/Xcode.app
+
+google for rails postgres tutorial
+
+gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
+
+rake db:create
+
+migration for school
+
+seeds.db to load the data
+
+git config --global core.excludesfile ~.gitignore_global
+
+put .DS_Store in it
+
+Install heroku tool belt
+
+<find that link for creating github/heroku branch again>
+
+Keep rails app in separate project for heroku
+
+Need to: 
+heroku run rake db:migrate 
+heroku run rake db:seed
+
+
+
+rails generate scaffold FieldTrip name:string school:references
+
+
+==============
 
  * Got github set up
 
