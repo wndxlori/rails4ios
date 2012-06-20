@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22A3A2F515924E77002C1A3E /* CreateFieldTripViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3A2F415924E77002C1A3E /* CreateFieldTripViewController.m */; };
 		22B2CC9015812555001AACFB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B2CC8F15812555001AACFB /* UIKit.framework */; };
 		22B2CC9215812555001AACFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B2CC9115812555001AACFB /* Foundation.framework */; };
 		22B2CC9415812555001AACFB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B2CC9315812555001AACFB /* CoreGraphics.framework */; };
@@ -29,6 +30,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22A3A2F315924E77002C1A3E /* CreateFieldTripViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateFieldTripViewController.h; sourceTree = "<group>"; };
+		22A3A2F415924E77002C1A3E /* CreateFieldTripViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateFieldTripViewController.m; sourceTree = "<group>"; };
 		22B2CC8B15812555001AACFB /* FieldTrip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FieldTrip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22B2CC8F15812555001AACFB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		22B2CC9115812555001AACFB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -117,6 +120,8 @@
 				22B2CCA715812555001AACFB /* FieldTripViewController.h */,
 				22B2CCA815812555001AACFB /* FieldTripViewController.m */,
 				22B2CC9615812555001AACFB /* Supporting Files */,
+				22A3A2F315924E77002C1A3E /* CreateFieldTripViewController.h */,
+				22A3A2F415924E77002C1A3E /* CreateFieldTripViewController.m */,
 			);
 			path = FieldTrip;
 			sourceTree = "<group>";
@@ -239,6 +244,7 @@
 				22B2CCCC1581258E001AACFB /* AFURLConnectionOperation.m in Sources */,
 				22B2CCCD1581258E001AACFB /* AFXMLRequestOperation.m in Sources */,
 				22B2CCCE1581258E001AACFB /* UIImageView+AFNetworking.m in Sources */,
+				22A3A2F515924E77002C1A3E /* CreateFieldTripViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +366,7 @@
 				22B2CCAE15812555001AACFB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

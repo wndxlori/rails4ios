@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FieldTripViewController : UIViewController
+@protocol FieldTripViewControllerDelegate <NSObject>
+-(void) didPickSchool:(NSString *)school;
+@end
 
+@interface FieldTripViewController : UIViewController
+@property (nonatomic, weak) id <FieldTripViewControllerDelegate> delegate;
 @end
