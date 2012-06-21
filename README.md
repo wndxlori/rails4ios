@@ -9,13 +9,42 @@ Course outline
  Rails / iOS - 10 - 11 hours
  Ad hoc / open - 1 - 2 hours
 
-   
+
+ Verify Ruby/Rails setup
+ Ruby Language & Tools Introduction
+ Ruby on Rails - The Good Parts
+ Building API's with Rails/JSON and the Grape micro-framework
+ iOS to Rails by Example, with AFNetworking
+ Responsive Web Design by Example with Twitter Bootstrap
+ Deploying, The Easy Way, with Heroku   
 
 TODOs
 
- * Finalize course outline
- * Build demo app, using iOS and Rails on Heroku
- * Find a location
+ * Mailout student setup (Rails Installer, Postgres.app, Xcode, Github account, Heroku - extra credit)
+ * Create Ruby Language & Tools demo/presentation from https://github.com/alexch/ruby_notes
+ * Create step-by-step interactive Rails tutorial
+   * rails new
+   * pg config
+   * database create
+   * migration
+   * data seeding
+   * scaffolding
+ * Twitter Bootstrap - step by step
+ * Grape basics
+   * install
+   * list api
+   * introduce afnetworking on iOS side
+ * Advanced Grape
+   * authentication
+   * POST
+ * Heroku
+   * Github!
+   * setup heroku account
+   * create heroku app
+   * push
+   * rejigger app to access the heroku server
+ * Adhoc Q&A
+   * create list of possible topics
 
 THINGS TO EXPLORE
 
