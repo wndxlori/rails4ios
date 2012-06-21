@@ -66,3 +66,8 @@ HEROKU
 
  * http://sammich-installfest.heroku.com/installfest/create_an_ssh_key
  * http://sammich-installfest.heroku.com/installfest/create_a_heroku_account
+
+GRAPE
+
+ * http://www.arailsdemo.com/posts/30 <-- grape api http basic auth
+ * http://code.dblock.org/grape-trapping-all-exceptions-within-the-api <--- grape api error handling
