@@ -20,6 +20,7 @@ Course outline
 
 TODOs
 
+ * Regenerate scaffold on FieldtripServer, to get rid of deprecation warnings from the new version of Rails
  * Mailout student setup (Rails Installer, Postgres.app, Xcode, Github account, Heroku - extra credit)
  * Create Ruby Language & Tools demo/presentation from https://github.com/alexch/ruby_notes
  * Create step-by-step interactive Rails tutorial
