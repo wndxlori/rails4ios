@@ -1,3 +1,14 @@
+New notes sept 2012
+===================
+
+curl -L get.rvm.io | bash -s stable --ruby --rails
+
+gives the following versions:
+
+ruby-1.9.3-p194
+rails-3.28
+
+
 Lori's notes FieldTripServer
 ============================
 
