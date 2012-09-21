@@ -42,6 +42,8 @@ rake db:migrate
 
 rails s
 
+localhost:3000/schools
+
 create a school (and delete)
 
 seeds.db to load the data
@@ -52,44 +54,32 @@ put .DS_Store in it
 
 Install heroku tool belt
 
-<find that link for creating github/heroku branch again>
+https://devcenter.heroku.com/articles/git
 
-Keep rails app in separate project for heroku
+http://stackoverflow.com/questions/8786564/cannot-push-to-heroku-because-key-fingerprint
+
+Keep rails app in separate project (from your iOS app) for heroku
 
 Need to: 
 heroku run rake db:migrate 
 heroku run rake db:seed
 
 
+Next step:  switch to less and twitter bootstrap,add to gemfile:gem 'less-rails'gem 'less-rails-bootstrap'gem 'therubyracer'instead of ‘sass-rails’
+also comment out coffeerails
+
+bundlein Stylesheetsrename schools.css.scss to schools.css.lessalso scaffold
+delete schools.js.coffee
+
+Add to application.css
+ *= require twitter/bootstrap
+then add “class=‘table’” to the scaffold table(see twitter.github.com/bootstrap/components.html)change scaffold index buttons to “btn btn-primary” , “btn btn-danger”, “btn btn-info”
 
 rails generate scaffold FieldTrip name:string school:references
 
 
-==============
+===========================================================
 
- * Got github set up
-
-XCODE
-
- * update xcode to 4.3.2
-
-RUBY/RAILS
-
- * Use ruby 1.8.7 as installed on machine
- * install rubygems if needed from https://rubygems.org/pages/download
- * "sudo gem update --system"
- * "sudo gem install rails"  - should get 3.2.3
- * sudo gem install rdoc-data
- * sudo rdoc-data --install
- * sudo gem install bundler
-
-
-HEROKU
-
- * http://sammich-installfest.heroku.com/installfest/create_an_ssh_key
- * http://sammich-installfest.heroku.com/installfest/create_a_heroku_account
-
-GRAPE
 
  * http://www.arailsdemo.com/posts/30 <-- grape api http basic auth
  * http://code.dblock.org/grape-trapping-all-exceptions-within-the-api <--- grape api error handling
