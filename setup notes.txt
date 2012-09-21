@@ -12,26 +12,37 @@ rails-3.28
 Lori's notes FieldTripServer
 ============================
 
-
-installing ruby 1.9.3-p125 (p194 now)
-
-rails new FieldTrip -d postgresql --skip-bundle
-
 rvm use 1.9.3
 
-bundle
+rails new FieldTripServer -d postgresql --skip-bundle
+
+cd FieldTripServer
+
+gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
 
 postgresapp.com download
-
 xcode-select -switch /Applications/Xcode.app
 
 google for rails postgres tutorial
 
-gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
+bundle
+
+psql
+\q
+
+edit database.yml
+change username to your Mac account name
 
 rake db:create
 
 migration for school
+rails generate scaffold school board:string subcategory:string school_type:string name:string address:string city:string province:string postal_code:string grades:string ecs:boolean
+
+rake db:migrate
+
+rails s
+
+create a school (and delete)
 
 seeds.db to load the data
 
