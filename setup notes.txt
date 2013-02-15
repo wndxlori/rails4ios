@@ -12,18 +12,20 @@ rails-3.28
 Lori's notes FieldTripServer
 ============================
 
+postgresapp.com download and install (don't run from Desktop or Downloads.  Stop it, move to Applications)
+
+PATH="/Applications/Postgres.app/Contents/MacOS/bin:$PATH"
+xcode-select -switch /Applications/Xcode.app  <---- if you have multiple versions of Xcode, point to the right one
+
 rvm use 1.9.3
 
 rails new FieldTripServer -d postgresql --skip-bundle
 
 cd FieldTripServer
 
-gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config
+gem install pg -- --with-pg-config=/Applications/Postgres.app/Contents/MacOS/bin/pg_config  (uninstall if you failed at this before, and start fresh)
 
-postgresapp.com download
-xcode-select -switch /Applications/Xcode.app
-
-google for rails postgres tutorial
+google for rails postgres tutorial if you would like more information
 
 bundle
 
@@ -65,15 +67,32 @@ heroku run rake db:migrate
 heroku run rake db:seed
 
 
-Next step:  switch to less and twitter bootstrap,add to gemfile:gem 'less-rails'gem 'less-rails-bootstrap'gem 'therubyracer'instead of ‘sass-rails’
-also comment out coffeerails
+Next step:  switch to less and twitter bootstrap,
 
-bundlein Stylesheetsrename schools.css.scss to schools.css.lessalso scaffold
+add to gemfile:
+
+gem 'less-rails'
+gem 'less-rails-bootstrap'
+gem 'therubyracer'
+
+instead of ‘sass-rails’
+also comment out coffeerails, because we aren't going to use it
+
+bundle
+
+in Stylesheets
+
+
+rename schools.css.scss to schools.css.less
+also scaffold
 delete schools.js.coffee
 
 Add to application.css
  *= require twitter/bootstrap
-then add “class=‘table’” to the scaffold table(see twitter.github.com/bootstrap/components.html)change scaffold index buttons to “btn btn-primary” , “btn btn-danger”, “btn btn-info”
+
+then add “class=‘table’” to the scaffold table
+(see twitter.github.com/bootstrap/components.html)
+change scaffold index buttons to “btn btn-primary” , “btn btn-danger”, “btn btn-info”
 
 rails generate scaffold FieldTrip name:string school:references
 
