@@ -5,8 +5,8 @@ curl -L get.rvm.io | bash -s stable --ruby --rails
 
 gives the following versions:
 
-ruby-1.9.3-p194
-rails-3.28
+ruby-1.9.3-p385
+rails-3.2.12
 
 
 Lori's notes FieldTripServer
@@ -33,12 +33,12 @@ psql
 \q
 
 edit database.yml
-change username to your Mac account name
+change username to your Mac account name, for development and test at least
 
 rake db:create
 
 migration for school
-rails generate scaffold school board:string subcategory:string school_type:string name:string address:string city:string province:string postal_code:string grades:string ecs:boolean
+rails generate scaffold school board:string category:string school_type:string name:string address:string city:string province:string postal_code:string grades:string ecs:boolean
 
 rake db:migrate
 
