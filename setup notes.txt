@@ -225,7 +225,8 @@ add to gemfile:
 
 gem 'less-rails'
 gem 'less-rails-bootstrap'
-gem 'therubyracer'
+
+and uncomment therubyracer
 
 instead of ‘sass-rails’
 also comment out coffeerails, because we aren't going to use it
@@ -242,9 +243,152 @@ delete schools.js.coffee
 Add to application.css
  *= require twitter/bootstrap
 
-then add “class=‘table’” to the scaffold table
+then add “class=‘table table-striped’” to the scaffold table
 (see twitter.github.com/bootstrap/components.html)
-change scaffold index buttons to “btn btn-primary” , “btn btn-danger”, “btn btn-info”
+change scaffold index buttons to “btn btn-primary” , “btn btn-info”, “btn btn-danger”
+
+next steps
+
+application layout
+
+<div class="container">
+  <%= yield %>
+</div>
+
+(then switch to container-fluid because it looks better)
+
+Also, dup the "New School" link to the top of the table.
+
+Update the school form
+
+<%= form_for(@school, html: {class: 'form-horizontal'}) do |f| %>
+  <% if @school.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@school.errors.count, "error") %> prohibited this school from being saved:</h2>
+
+      <ul>
+      <% @school.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="control-group">
+    <%= f.label :board, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :board %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :category, class: "control-label"  %>
+    <div class="controls">
+      <%= f.text_field :category %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :school_type, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :school_type %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :name, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :name %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :address, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :address %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :city, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :city %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :province, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :province %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :postal_code, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :postal_code %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :grades, class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :grades %>
+    </div>
+  </div>
+  <div class="control-group">
+    <%= f.label :ecs, class: "control-label" %>
+    <div class="controls">
+      <%= f.check_box :ecs %>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="controls">
+      <div class="actions">
+        <%= f.submit class: "btn btn-success" %>
+      </div>
+    </div>
+  </div>
+<% end %>
+
+add
+
+ class='hidden-phone'
+
+to all the columns in the schools table that should be hidden on the form
+http://twitter.github.com/bootstrap/scaffolding.html#responsive
+
+
+theme it with bootswatch.com, then
+
+ gem 'less-rails-bootswatch'
+
+(Some problems here.  Remove all the less-rails lines from the Gemfile.lock and run bundle again to clear it up)
+
+bootswatch-theme.css.less
+
+@import "twitter/bootstrap";
+@import "twitter/bootstrap/responsive";
+//@import "bootswatch/spruce/bootswatch";
+//@import "bootswatch/spruce/variables";
+@import "bootswatch/cerulean/bootswatch";
+@import "bootswatch/cerulean/variables";
+
+body {
+  margin-top: 45px;
+}
+
+add some navigation
+
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand" href="../">Calgary School FieldTrips</a>
+      <div class="nav-collapse" id="main-menu">
+        <ul class="nav">
+          <li><%= link_to "Schools", schools_path %></li>
+          <li><%= link_to "Field Trips", field_trips_path %></li>
+        </ul>
+      </div>
+  </div>
+</div>
+
 
 ===========================================================
 
