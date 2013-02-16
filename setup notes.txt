@@ -58,6 +58,7 @@ put .DS_Store in it
 
 See https://devcenter.heroku.com/articles/git
 
+heroku login
 heroku create
 git remote -v
 git push heroku master
