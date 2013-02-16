@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		228BACF716D02834007CFE18 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 228BACF616D02834007CFE18 /* Default-568h@2x.png */; };
 		22A3A2F515924E77002C1A3E /* CreateFieldTripViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22A3A2F415924E77002C1A3E /* CreateFieldTripViewController.m */; };
 		22B2CC9015812555001AACFB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B2CC8F15812555001AACFB /* UIKit.framework */; };
 		22B2CC9215812555001AACFB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22B2CC9115812555001AACFB /* Foundation.framework */; };
@@ -30,6 +31,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		228BACF616D02834007CFE18 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		22A3A2F315924E77002C1A3E /* CreateFieldTripViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateFieldTripViewController.h; sourceTree = "<group>"; };
 		22A3A2F415924E77002C1A3E /* CreateFieldTripViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateFieldTripViewController.m; sourceTree = "<group>"; };
 		22B2CC8B15812555001AACFB /* FieldTrip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FieldTrip.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -86,6 +88,7 @@
 		22B2CC8015812554001AACFB = {
 			isa = PBXGroup;
 			children = (
+				228BACF616D02834007CFE18 /* Default-568h@2x.png */,
 				22B2CC9515812555001AACFB /* FieldTrip */,
 				22B2CC8E15812555001AACFB /* Frameworks */,
 				22B2CC8C15812555001AACFB /* Products */,
@@ -193,7 +196,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = FieldTrip;
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Software Brewmasters Inc";
 			};
 			buildConfigurationList = 22B2CC8515812554001AACFB /* Build configuration list for PBXProject "FieldTrip" */;
@@ -221,6 +224,7 @@
 				22B2CC9A15812555001AACFB /* InfoPlist.strings in Resources */,
 				22B2CCA315812555001AACFB /* MainStoryboard_iPhone.storyboard in Resources */,
 				22B2CCA615812555001AACFB /* MainStoryboard_iPad.storyboard in Resources */,
+				228BACF716D02834007CFE18 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +288,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -310,6 +318,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;

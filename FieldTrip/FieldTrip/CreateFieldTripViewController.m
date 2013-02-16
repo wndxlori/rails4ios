@@ -26,7 +26,7 @@
     [self.fieldTripName resignFirstResponder];
     NSLog(@"Creating %@ at %@", self.fieldTripName.text, self.schoolName.text);
     
-    NSURL *url = [NSURL URLWithString:@"http://localhost:3000"];
+    NSURL *url = [NSURL URLWithString:@"http://boiling-spire-7767.herokuapp.com/schools"];
     AFHTTPClient *client= [AFHTTPClient clientWithBaseURL:url];
     [client setAuthorizationHeaderWithUsername:@"course" password:@"password"];
     NSDictionary *createParameters = [NSDictionary dictionaryWithObjectsAndKeys: self.fieldTripName.text, @"name", self.schoolName.text, @"school", nil];

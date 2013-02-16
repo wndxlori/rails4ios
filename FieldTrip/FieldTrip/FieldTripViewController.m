@@ -29,7 +29,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    NSURL *url = [NSURL URLWithString:@"http://localhost:3000"];
+    NSURL *url = [NSURL URLWithString:@"http://boiling-spire-7767.herokuapp.com/schools"];
     AFHTTPClient *client= [AFHTTPClient clientWithBaseURL:url];
     [client setAuthorizationHeaderWithUsername:@"course" password:@"password"];
     NSMutableURLRequest *request = [client requestWithMethod:@"GET" path:@"/api/schools/list.json" parameters:Nil];
